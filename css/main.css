@@ -2,7 +2,7 @@
   text-align: right;
 }
 
-.none-decoration {
+.none-decoration, .image-link {
   text-decoration: none;
 }
 
